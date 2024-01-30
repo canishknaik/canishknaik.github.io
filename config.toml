@@ -1,0 +1,11 @@
+relativeURLs = true
+title = "Canishk Naik"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "PhD candidate in Economics, London School of Economics and Political Science"
+    logo = "cn_headshot.jpg"
+    email = c.naik@lse.ac.uk
