@@ -1,14 +1,19 @@
 <p class="contactinfo"><a href="{{ "#bio" | relURL }}">Bio</a></p>
+
 {{ with .GetPage "/sections/contact.md" }}
-<!-- <p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
+<p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
 {{ end }}
-{{ with .GetPage "/sections/office-hours.md" }}
+
+<!-- {{ with .GetPage "/sections/office-hours.md" }}
 <p class="contactinfo"><a href="{{ "#officehours" | relURL }}">Office Hours</a></p>
 {{ end }} -->
+
 {{ with .Site.Data.research }}
 <p class="contactinfo"><a href="{{ "#research" | relURL }}">Research</a></p>
 {{ end }}
-{{ with .Site.Data.working_papers }}
+
+
+<!-- {{ with .Site.Data.working_papers }} -->
 <!-- <p class="contactinfo"><a href="{{ "#workingpapers" | relURL }}">Working Papers</a></p>
 {{ end }}
 {{ with .Site.Data.work_in_progress }}
@@ -19,4 +24,4 @@
 {{ end }}
 {{ with .GetPage "/sections/personal.md" }}
 <p class="lastcontactinfo"><a href="{{ "#personal" | relURL }}">Personal</a></p> -->
-{{ end }}
+<!-- {{ end }} -->
