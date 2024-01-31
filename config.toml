@@ -4,6 +4,7 @@ theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+baseURL = "https://canishknaik.github.io/"
 
 [params]
     shortbio = "PhD candidate in Economics, London School of Economics and Political Science"
