@@ -7,5 +7,5 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 baseURL = "https://canishknaik.github.io/"
 
 [params]
-    shortbio = "PhD candidate in Economics, LSE."
+    shortbio = "PhD candidate in Economics, LSE"
     logo = "cn_headshot.jpg"
