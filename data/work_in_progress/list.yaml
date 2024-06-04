@@ -12,7 +12,9 @@ works:
 - title: "A Welfare Analysis of Public Housing Allocation Mechanisms"
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
   # book: "American Economic Review Papers and Proceedings, May 2013"
-  coauthors: "Neil Thakral"
+  coauthors: 
+    - name: "Neil Thakral"
+      website: "https://neilthakral.github.io/"
   # links:
   #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
   #     text: "Online Appendix"
@@ -22,17 +24,13 @@ works:
 - title: "The Social Determinants of Mental Health"
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
   # book: "American Economic Review Papers and Proceedings, May 2013"
-  coauthors: "Jon Kolstad, Will Parker & Johannes Spinnewijn"
-  # links:
-  #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
-  #     text: "Online Appendix"
-  # abstract: >
-  #   MHSA
-
-- title: "Intrapersonal Comparisons as Interpersonal Comparisons"
-  # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
-  # book: "American Economic Review Papers and Proceedings, May 2013"
-  coauthors: "Daniel Reck"
+  coauthors: 
+    - name: "Jon Kolstad"
+      website: "https://www.jkolstad.org/"
+    - name: "Will Parker"
+      website: "https://wdhparker.github.io/"
+    - name: "Johannes Spinnewijn"
+      website: "https://personal.lse.ac.uk/spinnewi/"
   # links:
   #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
   #     text: "Online Appendix"

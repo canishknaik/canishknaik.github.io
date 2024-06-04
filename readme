@@ -1,0 +1,5 @@
+update everything - leave "public" folder alone
+cd into this file
+hugo server
+if it looks good -> "hugo"
+push changes to github

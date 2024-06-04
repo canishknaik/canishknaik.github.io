@@ -1,0 +1,13 @@
+works:
+
+- title: "Intrapersonal Comparisons as Interpersonal Comparisons"
+  pdflink: "/pdf/intrapersonalcomparisons.pdf"
+  # book: "American Economic Review Papers and Proceedings, May 2013"
+  coauthors: 
+    - name: "Daniel Reck"
+      website: "https://www.danreck.com/"
+  # links:
+  #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
+  #     text: "Online Appendix"
+  abstract: >
+    We consider the optimal policy problem of a benevolent planner, who is uncertain about an individual’s true preferences because of inconsistencies in revealed preferences across be- havioral frames. We adapt theories of expected utility maximization and ambiguity aver- sion to characterize the planner’s objective, which results in welfarist criteria similar to social welfare functions, with intrapersonal frames replacing interpersonal types. Under paternalistic risk aversion or ambiguity aversion, a policy is less desirable to the planner, holding all else fixed, when it leads to more disagreement about welfare from revealed pref- erences. We map some examples of behavioral models into our framework and describe how this notion of robustness plays out in applied settings.

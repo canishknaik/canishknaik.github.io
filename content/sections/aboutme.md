@@ -6,6 +6,6 @@ I have a BA in Mathematics from the University of Cambridge and an MSc in Applic
 
 My primary research goal is to analyse how governments should optimally provide assistance and social protection to help the most vulnerable in society meet their basic needs. In my work, I focus on how psychological factors, including mental health and behavioural biases, affect how people interact with the policy environment and how we evaluate the welfare effects of public programs.
 
-__[Curriculum Vitae](/pdf/CVCN.pdf)__ (Updated Jan 2024)
+__[CV](/pdf/CVCN.pdf)__ (Updated June 2024)
 
 <!-- __[Research Statement](/pdf/ Research Statement.pdf")__  -->
