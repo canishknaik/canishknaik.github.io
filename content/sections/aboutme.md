@@ -1,4 +1,4 @@
-I am PhD student in the Economics Department at the [London School of Economics and Political Science](https://www.lse.ac.uk/economics) with interests in public and behavioural economics. 
+I am a PhD student in the Economics Department at the [London School of Economics and Political Science](https://www.lse.ac.uk/economics) with interests in public and behavioural economics. 
 
 My LSE webpage is [here](https://www.lse.ac.uk/economics/people/research-students/canishk-naik), and my email is [c.naik@lse.ac.uk](mailto:c.naik@lse.ac.uk).
 
