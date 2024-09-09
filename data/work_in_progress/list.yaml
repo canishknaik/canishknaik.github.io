@@ -7,19 +7,7 @@ works:
   #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
   #     text: "Online Appendix"
   abstract: >
-    Is social assistance well-targeted to people with poor mental health? Mental illness is disproportionately prevalent among the poor, implying a need for access to income-support schemes. However, psychological evidence suggests administrative burdens have higher incidence on people with poor mental health. This generates concern about whether ordeals are screening the mentally-ill efficiently. This question is important because up to now, the welfare consequences of such an inefficiency have remained undocumented. I find that people with moderately poor mental health receive social assistance more than the healthy, however no evidence that the seriously-ill receive more than moderates. My theoretical framework suggests this is driven by need vs ordeal-incidence. I characterize the normative consequences of selection by deriving sufficient-statistics formulas for marginal welfare effects of policies affecting targeting. I exploit an important benefits-reform and find that increased ordeals disproportionately screen out the mentally-ill. This suggests social assistance is currently sub-optimally targeted.
-
-- title: "A Welfare Analysis of Public Housing Allocation Mechanisms"
-  # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
-  # book: "American Economic Review Papers and Proceedings, May 2013"
-  coauthors: 
-    - name: "Neil Thakral"
-      website: "https://neilthakral.github.io/"
-  # links:
-  #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
-  #     text: "Online Appendix"
-  abstract: >
-    When allocating scarce resources such as public housing units to applicants in a waiting list, welfare depends on applicants’ preferences (match values and waiting costs) as well as their choices (which may involve errors). To trade off between allowing agents to wait for better matches and prioritizing agents with high waiting costs, allocation mechanisms impose restrictions on choices. Public housing allocation mechanisms in the UK restrict the set of available options that an applicant may accept, while mechanisms in the US restrict the number of times an applicant may reject. We examine how these different ways of restricting choices influence welfare, both theoretically and empirically. Using data on preferences for public housing in the US and the UK, we show how welfare compares under rationality and explore the sensitivity of the mechanisms to choice-error.
+    This paper demonstrates that high-need individuals with mental illnesses are screened-out of receiving social assistance, implying barriers-to-access are too high. I develop a theoretical framework which shows we must look past average take-up rates in order to identify whether the neediest individuals also face the highest costs of overcoming barriers, which would indicate ineffective targeting. Additionally identifying take-up responses to changes in benefits and barriers is sufficient to evaluate welfare effects. I empirically estimate these responses using quasi-experimental policy variation and administrative data from the population of the Netherlands. I find people with poor mental health have an 80% higher cost of take-up barriers compared to those with good mental health. People with mental disorders also need benefits twice as much. These estimates imply reducing barriers to take-up would be a 2.3x more effective policy than increasing benefits.
 
 - title: "The Social Determinants of Mental Health"
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
@@ -34,5 +22,6 @@ works:
   # links:
   #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
   #     text: "Online Appendix"
-  # abstract: >
+  abstract: >
+    This paper documents and analyzes the relationship between socio-economic factors and key measures of mental health. We demonstrate a sharp deterioration of mental health below an income threshold around the poverty line, while the impact of income beyond the threshold level are remarkably flat. The persistence of low socio-economic status further increases the risk of poor mental health. We find that the socio-economic gradients are strongest for working-age individuals, are not driven by access to health care and mostly explained by work status. Big economic  events such as physical health shocks and job losses seem not to contribute much to the overall gradient. Rather, the evidence suggests social drift as the primary mechanism: those with poor mental health sort into lower incomes over the lifecycle.
   #   MHSA
