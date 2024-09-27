@@ -1,13 +1,4 @@
 works:
-- title: "Mental Health and the Targeting of Social Assistance"
-  # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
-  # book: "American Economic Review Papers and Proceedings, May 2013"
-  # coauthors: "No one"
-  # links:
-  #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
-  #     text: "Online Appendix"
-  abstract: >
-    This paper demonstrates that high-need individuals with mental illnesses are screened-out of receiving social assistance, implying barriers-to-access are too high. I develop a theoretical framework which shows we must look past average take-up rates in order to identify whether the neediest individuals also face the highest costs of overcoming barriers, which would indicate ineffective targeting. Additionally identifying take-up responses to changes in benefits and barriers is sufficient to evaluate welfare effects. I empirically estimate these responses using quasi-experimental policy variation and administrative data from the population of the Netherlands. I find people with poor mental health have an 80% higher cost of take-up barriers compared to those with good mental health. People with mental disorders also need benefits twice as much. These estimates imply reducing barriers to take-up would be a 2.3x more effective policy than increasing benefits.
 
 - title: "The Social Determinants of Mental Health"
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
