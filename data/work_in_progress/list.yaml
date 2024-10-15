@@ -16,3 +16,18 @@ works:
   abstract: >
     This paper documents and analyzes the relationship between socio-economic factors and key measures of mental health. We demonstrate a sharp deterioration of mental health below an income threshold around the poverty line, while the impact of income beyond the threshold level are remarkably flat. The persistence of low socio-economic status further increases the risk of poor mental health. We find that the socio-economic gradients are strongest for working-age individuals, are not driven by access to health care and mostly explained by work status. Big economic  events such as physical health shocks and job losses seem not to contribute much to the overall gradient. Rather, the evidence suggests social drift as the primary mechanism: those with poor mental health sort into lower incomes over the lifecycle.
   #   MHSA
+
+- title: "Reconstructing Lives: Integrating Mental Health and Economic Recovery in Climate Disaster Responses"
+  # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
+  # book: "American Economic Review Papers and Proceedings, May 2013"
+  coauthors: 
+    - name: "Amen Jalal"
+      website: "https://amenjalal.com/"
+    - name: "Pol Simpson"
+      website: "https://www.lse.ac.uk/economics/people/research-students/pol-simpson"
+  # links:
+  #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
+  #     text: "Online Appendix"
+  # abstract: >
+  #   This paper documents and analyzes the relationship between socio-economic factors and key measures of mental health. We demonstrate a sharp deterioration of mental health below an income threshold around the poverty line, while the impact of income beyond the threshold level are remarkably flat. The persistence of low socio-economic status further increases the risk of poor mental health. We find that the socio-economic gradients are strongest for working-age individuals, are not driven by access to health care and mostly explained by work status. Big economic  events such as physical health shocks and job losses seem not to contribute much to the overall gradient. Rather, the evidence suggests social drift as the primary mechanism: those with poor mental health sort into lower incomes over the lifecycle.
+  #   MHSA
