@@ -8,4 +8,4 @@ baseURL = "https://canishknaik.github.io/"
 
 [params]
     shortbio = "PhD candidate in Economics, LSE"
-    logo = "cn_headshot.jpg"
+    logo = "cn_headshot.png"

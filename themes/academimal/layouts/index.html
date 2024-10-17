@@ -9,9 +9,9 @@
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
 
-{{ with .Site.Data.publications }}
+{{ with .Site.Data.jmp }}
 <hr>
-<h2 id="publications">Publications</h2>
+<h2 id="jmp">Job Market Paper</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
