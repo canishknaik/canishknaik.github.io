@@ -8,6 +8,6 @@ My primary research goal is to analyse how governments should optimally provide 
 
 My LSE webpage is [here](https://www.lse.ac.uk/economics/people/research-students/canishk-naik), and my email is [c.naik@lse.ac.uk](mailto:c.naik@lse.ac.uk). I use he/him pronouns.
 
-__[CV](/pdf/CVCN.pdf)__ (Updated October 2024)
+__[CV](/pdf/CVCN.pdf)__ (Updated November 2024)
 
 <!-- __[Research Statement](/pdf/ Research Statement.pdf")__  -->
