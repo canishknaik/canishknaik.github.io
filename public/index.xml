@@ -6,8 +6,15 @@
     <description>Recent content in Homepage on Canishk Naik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://canishknaik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theme</title>
+      <link>https://canishknaik.github.io/sections/theme/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://canishknaik.github.io/sections/theme/</guid>
+      <description>Theme: Minimal by orderedlist</description>
+    </item>
     <item>
       <title>Teaching</title>
       <link>https://canishknaik.github.io/sections/teaching/</link>
@@ -20,7 +27,7 @@
       <link>https://canishknaik.github.io/sections/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://canishknaik.github.io/sections/aboutme/</guid>
-      <description>I am a PhD candidate in Economics at the London School of Economics and Political Science, specializing in public economics and psychology &amp;amp; economics. In 2025-26, I will be a Postdoctoral Scholar at the O&amp;rsquo;Donnell Center for Behavioral Economics at UC Berkeley, before joining the IIES as an Assistant Professor in 2026.&#xA;My research examines how governments can optimally provide assistance and social protection to help the most vulnerable meet their basic needs, focusing on the role of psychological factors—such as mental health and behavioural biases—in shaping behaviour and policy effectiveness.</description>
+      <description>In 2025-26, I will be a Postdoctoral Scholar at the O&amp;rsquo;Donnell Center for Behavioral Economics at UC Berkeley, before joining the IIES as an Assistant Professor in 2026.&#xA;My research examines how governments can optimally provide assistance and social protection to help the most vulnerable meet their basic needs, focusing on the role of psychological factors—such as mental health and behavioural biases—in shaping behaviour and policy effectiveness.&#xA;I hold a BA in Mathematics from the University of Cambridge and a PhD in Economics from the LSE.</description>
     </item>
   </channel>
 </rss>

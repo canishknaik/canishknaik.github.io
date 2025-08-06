@@ -9,18 +9,6 @@
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
 
-{{ with .Site.Data.jmp }}
-<hr>
-<h2 id="jmp">Job Market Paper</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
-{{ end }}
-{{ end }}
-{{ end }}
-
-
 {{ with .Site.Data.working_papers }}
 <hr>
 <h2 id="workingpapers">Working Papers</h2>
@@ -49,9 +37,9 @@
 {{ .Content }}
 {{ end }}
 
-{{ with .GetPage "/sections/personal.md" }}
+{{ with .GetPage "/sections/theme.md" }}
 <hr>
-<h2 id="personal">Personal</h2>
+<h2 id="theme"></h2>
 {{ .Content }}
 {{ end }}
 
