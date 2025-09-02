@@ -1,4 +1,4 @@
-In 2025-26, I will be a Postdoctoral Scholar at the [O'Donnell Center for Behavioral Economics](https://haas.berkeley.edu/behavioral-economics/) at UC Berkeley, before joining the [IIES](https://www.su.se/institute-for-international-economic-studies/) as an Assistant Professor in 2026.
+I am a Postdoctoral Scholar at the [O'Donnell Center for Behavioral Economics](https://haas.berkeley.edu/behavioral-economics/) at UC Berkeley. I will join the [IIES](https://www.su.se/institute-for-international-economic-studies/) as an Assistant Professor in 2026.
 
 My research examines how governments can optimally provide assistance and social protection to help the most vulnerable meet their basic needs, focusing on the role of psychological factors—such as mental health and behavioural biases—in shaping behaviour and policy effectiveness.
 
