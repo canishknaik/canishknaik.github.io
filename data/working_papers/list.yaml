@@ -2,6 +2,18 @@ works:
 
 - works:
 
+- title: "Intrapersonal Comparisons as Interpersonal Comparisons"
+  pdflink: "/pdf/intrapersonalcomparisons.pdf"
+  book: "October 2025"
+  coauthors: 
+    - name: "Daniel Reck"
+      website: "https://www.danreck.com/"
+  # links:
+  #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
+  #     text: "Online Appendix"
+  abstract: >
+    Inconsistent choice undermines the revealed preference foundations of traditional welfare economics, leading to controversy about policymaking in the presence of behavioral frictions. We model an optimal policy problem wherein a benevolent planner is uncertain which behavioral frame reveals normative preferences. We axiomatize welfarist criteria that are similar to social welfare functions, with intrapersonal frames replacing interpersonal types. Under paternalistic ambiguity aversion or paternalistic risk aversion, the planner values policies that are robust to normative uncertainty. We apply these welfarist criteria and robustness concepts in examples, including default options, manipulation of reference points, present focus, corrective taxation for internalities, and nudging.
+
 - title: "Mental Health and the Targeting of Social Assistance"
   pdflink: "/pdf/MHSA_CN_JMP.pdf"
   book: "October 2025"
@@ -11,17 +23,6 @@ works:
   #     text: "Online Appendix"
   abstract: >
     People living with mental disorders are at a higher risk of needing income-support programs but face greater difficulty overcoming barriers to access. This paper investigates whether social assistance effectively reaches people with poor mental health. I measure mental health and social assistance take-up using Dutch administrative data and develop a theoretical framework to show how take-up responses can identify the marginal value of benefits (need) and the cost of barriers. These are key components for evaluating targeting effectiveness. I find that a policy increasing barriers disproportionately screens-out those with poor mental health, indicating a 64% higher cost of these barriers. Despite their higher cost, people with poor mental health have the same average take-up levels as those with good mental health, conditional on eligibility, which suggests greater need. To assess this, I show that individuals with poor mental health are more responsive to plausibly exogenous variation in benefits than those with good mental health, demonstrating that their need is twice as high. These estimates imply that people with poor mental health are inefficiently excluded from low-income welfare assistance by barriers. Consequently, reducing barriers to take-up would be twice as effective as increasing benefits.
-- title: "Intrapersonal Comparisons as Interpersonal Comparisons"
-  pdflink: "/pdf/intrapersonalcomparisons.pdf"
-  book: "January 2025"
-  coauthors: 
-    - name: "Daniel Reck"
-      website: "https://www.danreck.com/"
-  # links:
-  #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
-  #     text: "Online Appendix"
-  abstract: >
-    We consider the optimal policy problem of a benevolent planner, who is uncertain about an individual’s true preferences because of inconsistencies in revealed preferences across behavioral frames. We adapt theories of expected utility maximization and ambiguity aversion to characterize the planner’s objective, which results in welfarist criteria similar to social welfare functions, with intrapersonal frames replacing interpersonal types. Under paternalistic risk aversion or ambiguity aversion, a policy is less desirable to the planner, holding all else fixed, when it leads to more disagreement about welfare from revealed preferences. We map some examples of behavioral models into our framework and describe how this notion of robustness plays out in applied settings.
 
 - title: "A Welfare Analysis of Public Housing Allocation Mechanisms"
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
