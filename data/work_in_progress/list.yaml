@@ -4,8 +4,6 @@ works:
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
   # book: "American Economic Review Papers and Proceedings, May 2013"
   coauthors: 
-    - name: "Jon Kolstad"
-      website: "https://www.jkolstad.org/"
     - name: "Will Parker"
       website: "https://wdhparker.github.io/"
     - name: "Johannes Spinnewijn"
@@ -14,7 +12,7 @@ works:
   #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
   #     text: "Online Appendix"
   abstract: >
-    What drives the stark inequalities in mental health across socio-economic groups? Using administrative data from the population of the Netherlands, this paper uncovers a striking non-linear gradient in mental health by income: mental health sharply deteriorates below an income threshold near the poverty line but shows little association with income above this level. We find that the socio-economic gradients are strongest for working-age individuals, are not driven by access to health-care and are mostly explained by work status. Major adverse events such as physical health shocks and job losses contribute little to the overall gradient. Rather, the evidence suggests social drift as the primary mechanism: those with poor mental health sort into lower incomes over the lifecycle. These results highlight the economic vulnerability of people with poor mental health and the importance of a broad social safety net.
+     This paper quantifies mental health inequality and explores the underlying mechanisms using administrative data covering the entire Dutch population. Individuals at the bottom of the income distribution use psychotropic medications 2 times more, are hospitalized for mental health conditions 2.5 times more, and die by suicide 4 times more than those at the top. Unequal healthcare access cannot explain this gradient, allowing us to focus on the decomposition into two key channels: social causation (poverty causing poor mental health) and social drift (poor mental health causing poverty). We find limited evidence for social causation except during adolescence. The gradient is instead primarily driven by social drift: mental health shocks impose substantial earnings penalties, with work status as the key mediator. These findings highlight the value of targeted mental disorder prevention for children of low-income parents and enhanced social insurance against the economic costs of mental illness.
 
 - title: "Rebuilding Lives, not just Homes: Addressing Trauma in Disaster Recovery"
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
