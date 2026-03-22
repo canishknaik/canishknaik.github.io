@@ -2,6 +2,19 @@ works:
 
 - works:
 
+- title: "Choice Errors and Choice Restrictions in Public Housing Allocation"
+  pdflink: "/pdf/choice_errors_restrictions.pdf"
+  book: "March 2026"
+  coauthors: 
+    - name: "Neil Thakral"
+      website: "https://neilthakral.github.io/"
+  links:
+    - url: "/pdf/choice_errors_restrictions_appendix.pdf"
+      text: "Online Appendix"
+  abstract: >
+    Public housing allocation requires balancing two objectives: prioritizing vulnerable households and preventing congestion from applicants holding out for desirable units. Housing authorities manage this trade-off by restricting applicants’ choices, but the effectiveness of these restrictions depends on the errors applicants make when choosing. We combine administrative vacancy data from a large London council with a choice experiment that separately identifies preferences and biases for 587 public housing residents to compare the welfare effects of two prominent allocation policies. The UK mechanism batches arrivals and lets applicants sign up for acceptable options; the US mechanism makes sequential offers with rejection penalties. Under rationality, the US mechanism reduces congestion at the cost of weaker prioritization. The UK mechanism is more vulnerable to bias—yet some biases can improve average welfare, as high-priority applicants’ mistakes free up better options for those below them.
+
+
 - title: "Mental Health and the Targeting of Social Assistance"
   pdflink: "/pdf/MHSA_CN_JMP.pdf"
   book: "January 2026"
@@ -23,15 +36,3 @@ works:
   #     text: "Online Appendix"
   abstract: >
     Inconsistent choice undermines the revealed preference foundations of traditional welfare economics, leading to controversy about policymaking in the presence of behavioral frictions. We model an optimal policy problem wherein a benevolent planner is uncertain which behavioral frame reveals normative preferences. We axiomatize welfarist criteria that are similar to social welfare functions, with intrapersonal frames replacing interpersonal types. Under paternalistic ambiguity aversion or paternalistic risk aversion, the planner values policies that are robust to normative uncertainty. We apply these welfarist criteria and robustness concepts in examples, including default options, manipulation of reference points, present focus, corrective taxation for internalities, and nudging.
-
-- title: "A Welfare Analysis of Public Housing Allocation Mechanisms"
-  # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
-  book: "November 2022 (Please email for draft)"
-  coauthors: 
-    - name: "Neil Thakral"
-      website: "https://neilthakral.github.io/"
-  # links:
-  #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
-  #     text: "Online Appendix"
-  abstract: >
-    When allocating scarce resources such as public housing units to applicants in a waiting list, welfare depends on applicants’ preferences (match values and waiting costs) as well as their choices (which may involve errors). To trade off between allowing agents to wait for better matches and prioritizing agents with high waiting costs, allocation mechanisms impose restrictions on choices. Public housing allocation mechanisms in the UK restrict the set of available options that an applicant may accept, while mechanisms in the US restrict the number of times an applicant may reject. We examine how these different ways of restricting choices influence welfare, both theoretically and empirically. Using data on preferences for public housing in the US and the UK, we show how welfare compares under rationality and explore the sensitivity of the mechanisms to choice-error.
