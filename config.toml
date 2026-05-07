@@ -7,4 +7,4 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 baseURL = "https://canishknaik.github.io/"
 
 [params]
-    logo = "cn_headshot.png"
+    logo = "cn_headshot.jpg"
