@@ -1,6 +1,6 @@
 works:
 
-- title: "The Social Determinants of Mental Health"
+- title: "Mind the Gap: Understanding Socio-economic Inequality in Mental Health"
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
   # book: "American Economic Review Papers and Proceedings, May 2013"
   coauthors: 
@@ -12,7 +12,7 @@ works:
   #   - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
   #     text: "Online Appendix"
   abstract: >
-     This paper quantifies mental health inequality and explores the underlying mechanisms using administrative data covering the entire Dutch population. Individuals at the bottom of the income distribution use psychotropic medications 2 times more, are hospitalized for mental health conditions 2.5 times more, and die by suicide 4 times more than those at the top. Unequal healthcare access cannot explain this gradient, allowing us to focus on the decomposition into two key channels: social causation (poverty causing poor mental health) and social drift (poor mental health causing poverty). We find limited evidence for social causation except during adolescence. The gradient is instead primarily driven by social drift: mental health shocks impose substantial earnings penalties, with work status as the key mediator. These findings highlight the value of targeted mental disorder prevention for children of low-income parents and enhanced social insurance against the economic costs of mental illness.
+    This paper quantifies mental health inequality and explores the underlying mechanisms using administrative data covering the entire Dutch population. Individuals at the bottom of the income distribution use psychotropic medications 2.5 times more, are hospitalized for mental health conditions 3 times more, and die by suicide 3.5 times more than those at the top. Unequal healthcare access cannot explain this gradient, allowing us to focus on the decomposition into two key channels: social causation (poverty causing poor mental health) and social drift (poor mental health causing poverty). We find limited evidence for social causation except during adolescence. The gradient is instead primarily driven by social drift: mental health shocks impose substantial earnings penalties, with work status as the key mediator. These findings highlight the value of targeted mental disorder prevention for children of low-income parents and enhanced social insurance against the economic costs of mental illness.
 
 - title: "The Fundamental Need for Shelter: Evidence from the World’s Largest Home Reconstruction Program"
   # pdflink: "/pdf/GenderGenerosityAERPP2013Final.pdf"
